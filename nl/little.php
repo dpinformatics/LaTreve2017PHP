@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <?php include 'inc/head.inc' ?>
+    <?php include '../inc/head.inc' ?>
     <title>Welkom in La Trêve  - chambre freurie</title>
 </head>
 <body>
 
-<?php include 'inc/googleanalytics.inc'?>
+<?php include '../inc/googleanalytics.inc'?>
 <?php include 'inc/menu.inc'?>
 <!--section class="engine"><a rel="external" href="https://mobirise.com">https://mobirise.com/</a></section-->
 
@@ -147,14 +147,14 @@
 
 <!-- Availability -->
 <?php include 'inc/availability.inc'?>
-<?php include 'inc/calendarkk.inc'?>
+<?php include '../inc/calendarkk.inc'?>
 
 <!-- Contact Info -->
 <?php include  'inc/contactinfo.inc'; ?>
 <!-- Footer -->
-<?php include 'inc/footer.inc'; ?>
+<?php include '../inc/footer.inc'; ?>
 <!-- Assets -->
-<?php include  'inc/assets.inc'; ?>
+<?php include  '../inc/assets.inc'; ?>
 <input name="animation" type="hidden">
 </body>
 </html>

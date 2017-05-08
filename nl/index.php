@@ -237,7 +237,6 @@
     </div>
 </section>
 <section class="mbr-section" id="form1-b" style="background-color: rgb(204, 204, 204); padding-top: 40px; padding-bottom: 40px;">
-    
     <div class="mbr-section mbr-section__container mbr-section__container--middle">
         <div class="container">
             <div class="row">
@@ -253,7 +252,6 @@
                 <div class="col-xs-12 col-lg-10 col-lg-offset-1" data-form-type="">
                     <!--form action="contactus.php" method="post" data-form-title="meer informatie ?"-->
                     <form action="contactus.php" data-form-title="meer informatie ?" id="form1" onsubmit="$('#form1').submit()">
-
                         <div class="row row-sm-offset">
                             <div class="col-xs-12 col-md-4">
                                 <div class="form-group">
@@ -261,14 +259,12 @@
                                     <input type="text" class="form-control" name="name" required="" data-form-field="Name" id="form1-b-name">
                                 </div>
                             </div>
-
                             <div class="col-xs-12 col-md-4">
                                 <div class="form-group">
                                     <label class="form-control-label" for="form1-b-email">Email<span class="form-asterisk">*</span></label>
                                     <input type="email" class="form-control" name="email" required="" data-form-field="Email" id="form1-b-email">
                                 </div>
                             </div>
-
                             <div class="col-xs-12 col-md-4">
                                 <div class="form-group">
                                     <label class="form-control-label" for="form1-b-phone">Telefoon</label>
@@ -276,16 +272,12 @@
                                 </div>
                             </div>
                         </div>
-
                         <div class="form-group">
                             <label class="form-control-label" for="form1-b-message">Waarmee kunnen wij u van dienst zijn?</label>
                             <textarea class="form-control" name="message" rows="7" data-form-field="Message" id="form1-b-message"></textarea>
                         </div>
-
                         <div><button type="submit" class="btn btn-primary">VERZENDEN</button></div>
-
                         <div class="row" id="formerrors" align="center">&nbsp;</div>
-
                     </form>
                     <script>
                         $('#form1').submit( function(e) {

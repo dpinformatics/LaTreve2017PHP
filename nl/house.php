@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <?php include 'inc/head.inc' ?>
+    <?php include '../inc/head.inc' ?>
     <title>Welkom in La Trêve  - het gebouw</title>
 </head>
 <body>
 
-<?php include 'inc/googleanalytics.inc'?>
+<?php include '../inc/googleanalytics.inc'?>
 <?php include 'inc/menu.inc'?>
 <!--section class="engine"><a rel="external" href="https://mobirise.com">https://mobirise.com/</a></section-->
 
@@ -118,10 +118,11 @@
 
 <!-- Contact Info -->
 <?php include  'inc/contactinfo.inc'; ?>
+
 <!-- Footer -->
-<?php include 'inc/footer.inc'; ?>
+<?php include '../inc/footer.inc'; ?>
 <!-- Assets -->
-<?php include  'inc/assets.inc'; ?>
-<input name="animation" type="hidden">
-</body>
+<?php include  '../inc/assets.inc'; ?>
+    <input name="animation" type="hidden">
+    </body>
 </html>

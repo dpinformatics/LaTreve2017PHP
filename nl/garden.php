@@ -140,6 +140,7 @@
 
 <!-- Contact Info -->
 <?php include  'inc/contactinfo.inc'; ?>
+
 <!-- Footer -->
 <?php include '../inc/footer.inc'; ?>
 <!-- Assets -->
