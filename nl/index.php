@@ -95,7 +95,7 @@
                   <div class="card-img"><a href="house.php"><img src="../assets/images/house-600x450.jpg" class="card-img-top"></a></div>
                   <div class="card-block">
                     <h4 class="card-title">het gebouw</h4>
-                    <p class="card-text">Het gebouw heeft zijn oorsprong in de 18e eeuw. Het is een 300 jaar oude wijnbouwers woning met bijhorende kelder. Het is volledig met grote zorg gerenoveerd, met oog voor detail.</p>
+                    <p class="card-text">Het gebouw heeft zijn oorsprong in de 18e eeuw. Het is een 300 jaar oude wijnbouwerswoning met bijhorende kelder. Het is volledig met grote zorg gerenoveerd, met oog voor detail.</p>
                     <div class="card-btn"><a href="house.php" class="btn btn-primary">MEER &gt;&gt;</a></div>
                     </div>
                 </div>
