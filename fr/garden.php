@@ -2,7 +2,7 @@
 <html>
 <head>
     <?php include '../inc/head.inc' ?>
-    <title>Welkom in La Trêve  - de tuin</title>
+    <title>Bienvenue à La Trêve  - le jardin</title>
 </head>
 <body>
 
@@ -16,7 +16,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-8 col-md-offset-2 text-xs-center">
-                <h3 class="mbr-section-title display-2">de tuin</h3>
+                <h3 class="mbr-section-title display-2">le jardin</h3>
             </div>
         </div>
     </div>
@@ -25,12 +25,11 @@
     <div class="container">
         <div class="row">
             <div class="col-xs-12 lead">
-                <p>De tuin van ongeveer 4.000 m² is tussen het huis en de Orb gelegen. Het is zacht aflopend en heeft enkele vlakke plekjes waar je van de rust en de zon kan genieten.</p>
+                <p>Le jardin à une superficie d'environ 4.000 m², il est situé entre la maison et la rivière Orb. Il est en pente douce, on y trouve des parties planes et des endroits calmes propices à profiter du repos et du soleil.</p>
                 <p>&nbsp;</p>
-                <p>Doorheen heel de tuin staan er verschillende fruitbomen. Zo staan er onder andere appelbomen, perenbomen, verschillende soorten lichte en donkere vijgenbomen en verschillende notenbomen.
-                    Hier en daar is er ook een druivelaar die zijn weg naar de tuin heeft teruggevonden.</p>
+                <p>Une grande variété d'arbres fruitiers traversent le jardin, on y trouve entre autres des pommiers, des poiriers, plusieurs sortes de figuiers aux fruits clairs et foncés. Ci et là poussent encore le raisin qui a retrouvé le chemin du jardin.</p>
                 <p>&nbsp;</p>
-                <p>Beneden in de tuin is er ook een waterput en loopt een kanaaltje (le béal de Vereilles) door de tuin.</p>
+                <p>En contre-bas et au travers du jardin l'eau d'un puit s'écoule dans un petit canal (le béal de Vereilles).</p>
             </div>
         </div>
     </div>

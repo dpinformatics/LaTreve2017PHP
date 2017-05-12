@@ -4,7 +4,7 @@
 
         <div class="mbr-table">
             <div class="mbr-table-cell">
-                <div class="navbar-brand"><a href="index.php" class="navbar-logo"><img src="../assets/images/logo2-464x128.png" alt="Welkom in La Trêve"></a></div>
+                <div class="navbar-brand"><a href="index.php" class="navbar-logo"><img src="../assets/images/logo2-464x128.png" alt="Bienvenue à La Trêve"></a></div>
             </div>
             <div class="mbr-table-cell">
 
@@ -12,14 +12,14 @@
                     <div class="hamburger-icon"></div>
                 </button>
                 <ul class="nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm" id="exCollapsingNavbar">
-                    <li class="nav-item"><a class="nav-link link" href="index.php#overview">OVERZICHT</a></li>
-                    <li class="nav-item"><a class="nav-link link" href="index.php#domain">DOMEIN</a></li>
-                    <li class="nav-item"><a class="nav-link link" href="index.php#accomodation">ACCOMODATIE</a></li>
-                    <li class="nav-item"><a class="nav-link link" href="index.php#environment">OMGEVING</a></li>
+                    <li class="nav-item"><a class="nav-link link" href="index.php#overview">ACCEUIL</a></li>
+                    <li class="nav-item"><a class="nav-link link" href="index.php#domain">PROPRIETE</a></li>
+                    <li class="nav-item"><a class="nav-link link" href="index.php#accomodation">RESIDENCE</a></li>
+                    <li class="nav-item"><a class="nav-link link" href="index.php#environment">ALENTOURS</a></li>
                     <li class="nav-item"><a class="nav-link link" href="index.php#contactus">CONTACT</a></li>
-                    <li class="nav-item dropdown"><a class="nav-link link dropdown-toggle" data-toggle="dropdown-submenu" href="index.php/" aria-expanded="false">NL</a>
+                    <li class="nav-item dropdown"><a class="nav-link link dropdown-toggle" data-toggle="dropdown-submenu" href="index.php/" aria-expanded="false">FR</a>
                         <div class="dropdown-menu">
-                            <a class="dropdown-item" href="../fr/index.php">Français</a>
+                            <a class="dropdown-item" href="../nl/index.php">Nederlands</a>
                             <a class="dropdown-item" href="../en/index.php">English</a>
                         </div>
                     </li>
